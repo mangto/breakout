@@ -1,0 +1,2 @@
+plate_speed = 3
+plate_size = 30
